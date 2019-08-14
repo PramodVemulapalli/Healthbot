@@ -9,9 +9,9 @@ Here is a demo video: [https://www.youtube.com/watch?v=napNTiaft8U](https://www.
 
 ## Architecture
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/Architecture.png)](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/Architecture.png)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/docs/Architecture.png)](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/docs/Architecture.png)
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/Dialogflowlogic.png)](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/Dialogflowlogic.png)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/docs/Dialogflowlogic.png)](https://raw.githubusercontent.com/PramodVemulapalli/Healthbot/master/docs/Dialogflowlogic.png)
 
 The above code pertains to the flask server deployed in Heroku:
 
