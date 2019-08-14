@@ -1,8 +1,6 @@
 # Module: f2.py
 from bs4 import BeautifulSoup
 
-from Client import Client
-
 import urllib.parse
 import requests
 import json
